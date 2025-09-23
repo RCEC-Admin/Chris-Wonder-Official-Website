@@ -216,6 +216,46 @@ body {
 
 }
 
+/* Testimonals and Reviews */
+.Testimonals {
+    position: relative;
+    margin: auto;
+    padding: 0% 0% 0%; /* 16:9 ratio */
+    overflow: hidden;
+}
+
+/* Testimonals and Reviews Header Text */
+.Testimonals p.Header {
+    font-style: oblique;
+    font-size: 350%;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #FCA71E;
+    text-shadow: 0 0 3px #F0BF54, 0 0 5px #290101;
+
+    margin-top: 5%;
+}
+
+/* Testimonals and Reviews Section Text */
+.Testimonals p.Section {
+    font-style: oblique;
+    color: #FCA71E;
+    font-size: 180%;
+    letter-spacing: 1px;
+
+    text-align: center;
+}
+
+/* Testimonals and Reviews Content Text */
+.Testimonals p.Content {
+    color: #F0BF54;
+    font-size: 130%;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-align: center;
+
+}
+
 /* Horizontal Line 1*/
 .One hr {
     height: 3px;
@@ -618,6 +658,46 @@ text-align: center;
 
 }
 
+/* Testimonals and Reviews */
+.Testimonals {
+    position: relative;
+    margin: auto;
+    padding: 0% 0% 0%; /* 16:9 ratio */
+    overflow: hidden;
+}
+
+/* Testimonals and Reviews Header Text */
+.Testimonals p.Header {
+    font-style: oblique;
+    font-size: 270%;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #FCA71E;
+    text-shadow: 0 0 3px #F0BF54, 0 0 5px #290101;
+
+    margin-top: 5%;
+}
+
+/* Testimonals and Reviews Section Text */
+.Testimonals p.Section {
+    font-style: oblique;
+    color: #FCA71E;
+    font-size: 240%;
+    letter-spacing: 1px;
+
+    text-align: center;
+}
+
+/* Testimonals and Reviews Content Text */
+.Testimonals p.Content {
+    color: #F0BF54;
+    font-size: 160%;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-align: center;
+
+}
+
 /* Horizontal Line 1*/
 .One hr {
 height: 3px;
@@ -1013,6 +1093,46 @@ font-size: 120%;
 letter-spacing: 1px;
 line-height: 35px;
 text-align: center;
+
+}
+
+/* Testimonals and Reviews */
+.Testimonals {
+    position: relative;
+    margin: auto;
+    padding: 0% 0% 0%; /* 16:9 ratio */
+    overflow: hidden;
+}
+
+/* Testimonals and Reviews Header Text */
+.Testimonals p.Header {
+    font-style: oblique;
+    font-size: 350%;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #FCA71E;
+    text-shadow: 0 0 3px #F0BF54, 0 0 5px #290101;
+
+    margin-top: 5%;
+}
+
+/* Testimonals and Reviews Section Text */
+.Testimonals p.Section {
+    font-style: oblique;
+    color: #FCA71E;
+    font-size: 180%;
+    letter-spacing: 1px;
+
+    text-align: center;
+}
+
+/* Testimonals and Reviews Content Text */
+.Testimonals p.Content {
+    color: #F0BF54;
+    font-size: 130%;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-align: center;
 
 }
 
@@ -1414,6 +1534,46 @@ text-align: center;
 
 }
 
+/* Testimonals and Reviews */
+.Testimonals {
+    position: relative;
+    margin: auto;
+    padding: 0% 0% 0%; /* 16:9 ratio */
+    overflow: hidden;
+}
+
+/* Testimonals and Reviews Header Text */
+.Testimonals p.Header {
+    font-style: oblique;
+    font-size: 225%;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #FCA71E;
+    text-shadow: 0 0 3px #F0BF54, 0 0 5px #290101;
+
+    margin-top: 5%;
+}
+
+/* Testimonals and Reviews Section Text */
+.Testimonals p.Section {
+    font-style: oblique;
+    color: #FCA71E;
+    font-size: 180%;
+    letter-spacing: 1px;
+
+    text-align: center;
+}
+
+/* Testimonals and Reviews Content Text */
+.Testimonals p.Content {
+    color: #F0BF54;
+    font-size: 120%;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-align: center;
+
+}
+
 /* Horizontal Line 1*/
 .One hr {
 height: 3px;
@@ -1811,6 +1971,46 @@ line-height: 30px;
 text-align: center;
 }
 
+/* Testimonals and Reviews */
+.Testimonals {
+    position: relative;
+    margin: auto;
+    padding: 0% 0% 0%; /* 16:9 ratio */
+    overflow: hidden;
+}
+
+/* Testimonals and Reviews Header Text */
+.Testimonals p.Header {
+    font-style: oblique;
+    font-size: 225%;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #FCA71E;
+    text-shadow: 0 0 3px #F0BF54, 0 0 5px #290101;
+
+    margin-top: 5%;
+}
+
+/* Testimonals and Reviews Section Text */
+.Testimonals p.Section {
+    font-style: oblique;
+    color: #FCA71E;
+    font-size: 180%;
+    letter-spacing: 1px;
+
+    text-align: center;
+}
+
+/* Testimonals and Reviews Content Text */
+.Testimonals p.Content {
+    color: #F0BF54;
+    font-size: 120%;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-align: center;
+
+}
+
 /* Horizontal Line 1*/
 .One hr {
 height: 3px;
@@ -2197,6 +2397,46 @@ margin-right: 2%;
 
 /* Theatre Show Content Text */
 .Show p.Content {
+    color: #F0BF54;
+    font-size: 90%;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-align: center;
+
+}
+
+/* Testimonals and Reviews */
+.Testimonals {
+    position: relative;
+    margin: auto;
+    padding: 0% 0% 0%; /* 16:9 ratio */
+    overflow: hidden;
+}
+
+/* Testimonals and Reviews Header Text */
+.Testimonals p.Header {
+    font-style: oblique;
+    font-size: 175%;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #FCA71E;
+    text-shadow: 0 0 3px #F0BF54, 0 0 5px #290101;
+
+    margin-top: 5%;
+}
+
+/* Testimonals and Reviews Section Text */
+.Testimonals p.Section {
+    font-style: oblique;
+    color: #FCA71E;
+    font-size: 140%;
+    letter-spacing: 1px;
+
+    text-align: center;
+}
+
+/* Testimonals and Reviews Content Text */
+.Testimonals p.Content {
     color: #F0BF54;
     font-size: 90%;
     letter-spacing: 1px;
@@ -2597,6 +2837,46 @@ footer span {
 
 }
 
+/* Testimonals and Reviews */
+.Testimonals {
+    position: relative;
+    margin: auto;
+    padding: 0% 0% 0%; /* 16:9 ratio */
+    overflow: hidden;
+}
+
+/* Testimonals and Reviews Header Text */
+.Testimonals p.Header {
+    font-style: oblique;
+    font-size: 175%;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #FCA71E;
+    text-shadow: 0 0 3px #F0BF54, 0 0 5px #290101;
+
+    margin-top: 5%;
+}
+
+/* Testimonals and Reviews Section Text */
+.Testimonals p.Section {
+    font-style: oblique;
+    color: #FCA71E;
+    font-size: 140%;
+    letter-spacing: 1px;
+
+    text-align: center;
+}
+
+/* Testimonals and Reviews Content Text */
+.Testimonals p.Content {
+    color: #F0BF54;
+    font-size: 90%;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-align: center;
+
+}
+
 /* Horizontal Line 1*/
 .One hr {
     height: 3px;
@@ -2991,6 +3271,46 @@ footer span {
 
 }
 
+/* Testimonals and Reviews */
+.Testimonals {
+    position: relative;
+    margin: auto;
+    padding: 0% 0% 0%; /* 16:9 ratio */
+    overflow: hidden;
+}
+
+/* Testimonals and Reviews Header Text */
+.Testimonals p.Header {
+    font-style: oblique;
+    font-size: 175%;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #FCA71E;
+    text-shadow: 0 0 3px #F0BF54, 0 0 5px #290101;
+
+    margin-top: 5%;
+}
+
+/* Testimonals and Reviews Section Text */
+.Testimonals p.Section {
+    font-style: oblique;
+    color: #FCA71E;
+    font-size: 140%;
+    letter-spacing: 1px;
+
+    text-align: center;
+}
+
+/* Testimonals and Reviews Content Text */
+.Testimonals p.Content {
+    color: #F0BF54;
+    font-size: 90%;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-align: center;
+
+}
+
 /* Horizontal Line 1*/
 .One hr {
     height: 3px;
@@ -3379,6 +3699,46 @@ footer span {
 
 /* Theatre Show Content Text */
 .Show p.Content {
+    color: #F0BF54;
+    font-size: 90%;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-align: center;
+
+}
+
+/* Testimonals and Reviews */
+.Testimonals {
+    position: relative;
+    margin: auto;
+    padding: 0% 0% 0%; /* 16:9 ratio */
+    overflow: hidden;
+}
+
+/* Testimonals and Reviews Header Text */
+.Testimonals p.Header {
+    font-style: oblique;
+    font-size: 175%;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #FCA71E;
+    text-shadow: 0 0 3px #F0BF54, 0 0 5px #290101;
+
+    margin-top: 5%;
+}
+
+/* Testimonals and Reviews Section Text */
+.Testimonals p.Section {
+    font-style: oblique;
+    color: #FCA71E;
+    font-size: 140%;
+    letter-spacing: 1px;
+
+    text-align: center;
+}
+
+/* Testimonals and Reviews Content Text */
+.Testimonals p.Content {
     color: #F0BF54;
     font-size: 90%;
     letter-spacing: 1px;
@@ -3785,6 +4145,46 @@ padding-bottom: 2%;
 
 }
 
+/* Testimonals and Reviews */
+.Testimonals {
+    position: relative;
+    margin: auto;
+    padding: 0% 0% 0%; /* 16:9 ratio */
+    overflow: hidden;
+}
+
+/* Testimonals and Reviews Header Text */
+.Testimonals p.Header {
+    font-style: oblique;
+    font-size: 175%;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #FCA71E;
+    text-shadow: 0 0 3px #F0BF54, 0 0 5px #290101;
+
+    margin-top: 5%;
+}
+
+/* Testimonals and Reviews Section Text */
+.Testimonals p.Section {
+    font-style: oblique;
+    color: #FCA71E;
+    font-size: 140%;
+    letter-spacing: 1px;
+
+    text-align: center;
+}
+
+/* Testimonals and Reviews Content Text */
+.Testimonals p.Content {
+    color: #F0BF54;
+    font-size: 90%;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-align: center;
+
+}
+
 /* Horizontal Line 1*/
 .One hr {
 height: 3px;
@@ -4181,6 +4581,46 @@ font-size: 90%;
 letter-spacing: 1px;
 line-height: 20px;
 text-align: center;
+
+}
+
+/* Testimonals and Reviews */
+.Testimonals {
+    position: relative;
+    margin: auto;
+    padding: 0% 0% 0%; /* 16:9 ratio */
+    overflow: hidden;
+}
+
+/* Testimonals and Reviews Header Text */
+.Testimonals p.Header {
+    font-style: oblique;
+    font-size: 175%;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #FCA71E;
+    text-shadow: 0 0 3px #F0BF54, 0 0 5px #290101;
+
+    margin-top: 5%;
+}
+
+/* Testimonals and Reviews Section Text */
+.Testimonals p.Section {
+    font-style: oblique;
+    color: #FCA71E;
+    font-size: 140%;
+    letter-spacing: 1px;
+
+    text-align: center;
+}
+
+/* Testimonals and Reviews Content Text */
+.Testimonals p.Content {
+    color: #F0BF54;
+    font-size: 90%;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-align: center;
 
 }
 
@@ -4587,6 +5027,46 @@ font-size: 80%;
 letter-spacing: 1px;
 line-height: 20px;
 text-align: center;
+
+}
+
+/* Testimonals and Reviews */
+.Testimonals {
+    position: relative;
+    margin: auto;
+    padding: 0% 0% 0%; /* 16:9 ratio */
+    overflow: hidden;
+}
+
+/* Testimonals and Reviews Header Text */
+.Testimonals p.Header {
+    font-style: oblique;
+    font-size: 175%;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #FCA71E;
+    text-shadow: 0 0 3px #F0BF54, 0 0 5px #290101;
+
+    margin-top: 5%;
+}
+
+/* Testimonals and Reviews Section Text */
+.Testimonals p.Section {
+    font-style: oblique;
+    color: #FCA71E;
+    font-size: 110%;
+    letter-spacing: 1px;
+
+    text-align: center;
+}
+
+/* Testimonals and Reviews Content Text */
+.Testimonals p.Content {
+    color: #F0BF54;
+    font-size: 80%;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-align: center;
 
 }
 
@@ -4998,6 +5478,46 @@ text-align: center;
 
 }
 
+/* Testimonals and Reviews */
+.Testimonals {
+    position: relative;
+    margin: auto;
+    padding: 0% 0% 0%; /* 16:9 ratio */
+    overflow: hidden;
+}
+
+/* Testimonals and Reviews Header Text */
+.Testimonals p.Header {
+    font-style: oblique;
+    font-size: 175%;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #FCA71E;
+    text-shadow: 0 0 3px #F0BF54, 0 0 5px #290101;
+
+    margin-top: 5%;
+}
+
+/* Testimonals and Reviews Section Text */
+.Testimonals p.Section {
+    font-style: oblique;
+    color: #FCA71E;
+    font-size: 110%;
+    letter-spacing: 1px;
+
+    text-align: center;
+}
+
+/* Testimonals and Reviews Content Text */
+.Testimonals p.Content {
+    color: #F0BF54;
+    font-size: 80%;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-align: center;
+
+}
+
 /* Horizontal Line 1*/
 .One hr {
 height: 3px;
@@ -5402,6 +5922,46 @@ font-size: 80%;
 letter-spacing: 1px;
 line-height: 20px;
 text-align: center;
+
+}
+
+/* Testimonals and Reviews */
+.Testimonals {
+    position: relative;
+    margin: auto;
+    padding: 0% 0% 0%; /* 16:9 ratio */
+    overflow: hidden;
+}
+
+/* Testimonals and Reviews Header Text */
+.Testimonals p.Header {
+    font-style: oblique;
+    font-size: 175%;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #FCA71E;
+    text-shadow: 0 0 3px #F0BF54, 0 0 5px #290101;
+
+    margin-top: 5%;
+}
+
+/* Testimonals and Reviews Section Text */
+.Testimonals p.Section {
+    font-style: oblique;
+    color: #FCA71E;
+    font-size: 110%;
+    letter-spacing: 1px;
+
+    text-align: center;
+}
+
+/* Testimonals and Reviews Content Text */
+.Testimonals p.Content {
+    color: #F0BF54;
+    font-size: 80%;
+    letter-spacing: 1px;
+    line-height: 40px;
+    text-align: center;
 
 }
 
