@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="stylesheet" type="text/css" href="styles.css">
+
+	<title>Wandering Tales With Wonder</title>
+	
+	<link rel="icon" href="Website Images/Maple Leaf.png" type="image/png">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+<!-- Nav bar -->
+
+	<div class="topnav" id="myTopnav">
+			<a href="index.html">| Home |</a>
+			<a href="Shows.html">| Current Show Dates |</a>
+            <a href="Blog.html">| Blog |</a>
+		<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+</div>
+<script>
+	function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+<!-- COllapsible FAQ stufffssss -->
+
+<button type="button" class="collapsible">How much do you charge?</button>
+<div class="content">
+  <p>The fee depends on a number of variables including the <strong>type</strong> of magic (close-up or stage), the <strong>size</strong> of the event, the <strong>length</strong> of performance you would like, 
+    whether travel and accommodation are involved and so on.
+    <br> <br>
+    The <strong>easiest</strong> thing to do is tell me about your event and I’ll send you a <strong>no-obligation</strong> quote with some different options!</p>
+</div>
+
+<button type="button" class="collapsible">Do you perform for children?</button>
+<div class="content">
+  <p>I aim to entertain mainly mature audiences that being corporate and private adult events, but on rare occasion I have entertained Children! 
+    <br> <br>
+    I have done fesitvals, local community events, and birthday parties, and been told I am quite <strong>gifted</strong> in entertaining children, 
+    though my passion lies in the more mature audiences. 
+    <br> <br>
+    <strong>Please</strong> write me a letter through my contact form, and I'll reply in <strong>24</strong> hours. 
+    <br> <br>
+    You never know I may just say yes, as doing it now and again is refreshing and can be quite fun for me and most certainly
+    the children!
+  </p>
+</div>
+
+<button type="button" class="collapsible">Do you travel?</button>
+<div class="content">
+  <p>Yes I will happily travel to your event! 
+    <br> <br>
+    I am based in Calgary right now, as I am finishing up my <strong>BFA</strong> specializing in Drama (who could have guessed the magician was an arts major). 
+    <br> <br>
+    I implore those outside Calgary to <strong>contact me</strong> I dream to travel and share my craft, and I guarantee you'll experience true 
+    <strong>wonder</strong> </p>
+</div>
+
+<button type="button" class="collapsible">Do you do shows for as few as 10 people? Or as many as 500?</button>
+<div class="content">
+  <p><strong> Absolutely!</strong> From intimate house parties to large stage shows for conventions. 
+    <br> <br>
+    1 person on a bus to 1 billion on tv I have a show for <strong>any size</strong>.
+    <br> <br>
+    <strong>Wherever</strong> your imagination takes you – weddings, anniversary and retirement parties, family reunions, conferences and conventions, 
+    university orientation events, charity fundraiser dinners, mix-and-mingle cocktail parties, community celebrations, rodeos, 
+    <strong>any</strong> cause for celebration or gathering, whether corporate or private.
+    <br> <br>
+    Not sure? Write me through my contact form for a quick chat or call!</p>
+</div>
+
+<button type="button" class="collapsible">Why Haven't I heard of You?</button>
+<div class="content">
+  <p>I am <strong>22</strong> years old, My greatest curse and blessing is that I was just born a mere couple decades ago.
+    <br> <br>
+    If you haven't heard of me, don't worry I plan on giving you a
+    <strong>wonderfully</strong> memorable experience.
+    <br> <br>
+    If you checked my site out this far, thank you <strong>&hearts;</strong> and have an amazing day or night. </p>
+</div>
+
+<!-- JAVA SCRIPT FOR COLLAPSIBLE -->
+<script> 
+    var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+</script>
+
+</body>
+
+<div class="Divider">
+<hr>
+</div>
+
+<footer>
+	<div class="Legal">
+		<span id="Copy">Copyright &#169; 2025-2026 Chris Wonder - All Rights Reserved.</span>
+			
+		<span id="Credits">Made by Chris Wonder</span> 
+	</div>
+</footer>
