@@ -392,12 +392,12 @@ body .Section#Showdates {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20%;
+    padding: 10%;
 
     p.Title {
     font-size: 5rem; font-style: oblique;
     color: #FCA71E; text-shadow: 0rem 0rem 0.188rem #F0BF54, 0rem 0rem 0.313rem #290101; animation: glow 3s infinite alternate-reverse;
-    text-align: center;
+    text-align: center; line-height: 5rem;
     }
 
 }
