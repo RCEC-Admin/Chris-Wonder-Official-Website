@@ -112,6 +112,9 @@ justify-content: center;
         text-shadow: none;
     }
 
+    #about_highlight {
+         text-shadow: 0px 0px 30px #FCA71E ,0px 0px 10px #f7ce8e; 
+    }
 
     #about_content {
         display: grid;
@@ -144,9 +147,9 @@ justify-content: center;
     }
 
     .text_sub {
-        font-size: clamp(.4rem, 2vw, 10rem);
+        font-size: clamp(.7rem, 1.5vw, 10rem);
         text-align: center;
-        line-height: clamp(.6rem, 3vw, 10rem);
+        line-height: clamp(1.3rem, 3vw, 10rem);
         text-shadow: none;
         margin-bottom: 5%;
     }
@@ -386,6 +389,21 @@ footer {
         cursor: default;
         
         text-shadow: 0px 0px 10px #290101 ,0px 0px 5px #250404;
+    }
+
+    .text_link {
+        border: none;
+        font-size: inherit;
+        color: #FCA71E;
+        text-decoration-color: #FCA71E;
+        padding: 0;
+        text-decoration-skip-ink: none;
+        transition: 2s ease;
+    }
+
+    a.text_link:hover, :focus {
+        transition: .4s ease-in-out;
+        text-shadow: 0px 0px 30px #FCA71E ,0px 0px 10px rgb(180, 180, 180);
     }
 }
 
