@@ -42,7 +42,7 @@ header {
     align-items: center;
 
     .text {
-        font-size: clamp(.6rem, 1.5vw, 10rem);
+        font-size: clamp(1.5rem, 1.5vw, 10rem);
         text-align: center;
     }
 
